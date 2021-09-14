@@ -1,3 +1,8 @@
+# Robofriends React App
+
+I created this React App to understand how React works with classes.
+You can see it here: https://serene-poincare-0e8fe1.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
